@@ -2,9 +2,12 @@
 
 Overall, I enjoyed this course. It was nice to learn about all the variety of things we covered. Some of my favorite assignments were
 
-* The Simple Computer Simulation
+* The Simple Computer Simulation (see below)
 * The Python Turtle Graphic
-* Using Codecademy to learn about JavaScript
+* Using [Codecademy](https://www.codecademy.com/) to learn about JavaScript
+
+![image](https://user-images.githubusercontent.com/54252501/70368020-9b0b5580-186b-11ea-942a-88abc897d2ee.png)
+
 
 --------------------------------------------------
 
