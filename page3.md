@@ -6,6 +6,8 @@ Overall, I enjoyed this course. It was nice to learn about all the variety of th
 * The Python Turtle Graphic
 * Using [Codecademy](https://www.codecademy.com/) to learn about JavaScript
 
+The Simple Computer Simulation was a cool assignment because of how different it was. I never thought I would be following directions and shading inside the boxes of a worksheet in college, especially in this day and age when _everything_ is digital! This assignment also made the complexity of how a computer runs seem simple! I was surprised by this assignment, it was definitely one of my favorites!
+
 ![image](https://user-images.githubusercontent.com/54252501/70368020-9b0b5580-186b-11ea-942a-88abc897d2ee.png)
 
 
