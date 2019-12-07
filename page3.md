@@ -1,4 +1,4 @@
-# My favorite parts of the course
+### My favorite parts of the course
 
 Overall, I enjoyed this course. It was nice to learn about all the variety of things we covered. Some of my favorite assignments were
 

@@ -1,3 +1,3 @@
-# Why I am choosing to go back to business
+### Why I am choosing to go back to business
 
 Even though this course was fun, I have chosen to switch back to business as my major. This class taught me a lot and I thoroughly enjoyed it. I am choosing business again because I feel like I would not be good enough at more advanced coding. I have taken a look at what one of my friends, who is in his second year of IT, is doing and I feel like that is complicated. I also seeked career counseling this semester and after taking a few tests, found that business was a more likely path for me. I really enjoyed these courses, though, and thought that they were great classes to take.
