@@ -4,7 +4,7 @@ I think overall it was a great school year for me. If all grades stay mostly the
 
 --------------------------------------------------
 
-* [Back to home page](readme.md)
+* [Back to home page](README.md)
 
 * [What I learned](page2.md) 
 * [My favorite parts of the course](page3.md)

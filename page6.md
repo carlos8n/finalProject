@@ -8,7 +8,7 @@ Anyway, since I still need another image to meet the requirement and finals are 
 
 --------------------------------------------------
 
-* [Back to home page](readme.md)
+* [Back to home page](README.md)
 
 * [What I learned](page2.md) 
 * [My favorite parts of the course](page3.md)

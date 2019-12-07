@@ -4,7 +4,7 @@ Even though this course was fun, I have chosen to switch back to business as my 
 
 --------------------------------------------------
 
-* [Back to home page](readme.md)
+* [Back to home page](README.md)
 
 * [What I learned](page2.md) 
 * [My favorite parts of the course](page3.md)

@@ -13,7 +13,7 @@ The Simple Computer Simulation was a cool assignment because of how different it
 
 --------------------------------------------------
 
-* [Back to home page](readme.md)
+* [Back to home page](README.md)
 
 * [What I learned](page2.md) 
 * [Why I am choosing to go back to business](page4.md)

@@ -14,7 +14,7 @@ I remember this being what I coded for the aboutMe challenge. Back then it did s
 
 --------------------------------------------------
 
-* [Back to home page](readme.md)
+* [Back to home page](README.md)
 
 * [My favorite parts of the course](page3.md)
 * [Why I am choosing to go back to business](page4.md)
